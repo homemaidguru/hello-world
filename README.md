@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-hello-world tutorial
+Replacing the texted logo with a graphical logo
